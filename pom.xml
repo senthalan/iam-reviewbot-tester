@@ -10,7 +10,7 @@
 
     <groupId>org.wso2.deply.test</groupId>
     <artifactId>deploy-sample</artifactId>
-    <version>1.3.6</version>
+    <version>1.3.6-SNAPSHOT</version>
 
 
     <scm>
@@ -46,6 +46,5 @@
 
     <properties>
         <github.global.server>github</github.global.server>
-        <github.global.oauth2Token>47716bf5f4672279fbd0eb9cd7061eee2b0c9425</github.global.oauth2Token>
     </properties>
 </project>
