@@ -43,13 +43,12 @@
                 <groupId>com.github.github</groupId>
                 <artifactId>github-maven-core</artifactId>
                 <version>0.12</version>
+                <configuration>
+                    <server>senthalan-github</server>
+                </configuration>
             </plugin>
         </plugins>
     </pluginManagement>
 
     </build>
-
-    <properties>
-        <github.global.server>senthalan-github</github.global.server>
-    </properties>
 </project>
