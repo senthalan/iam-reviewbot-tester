@@ -22,7 +22,7 @@
 
     <distributionManagement>
         <repository>
-            <id>nexus</id>
+            <id>wso2.test.release</id>
             <name>Nexus Staging Repo</name>
             <url>https://mavenstg.wso2.org/nexus/content/repositories/releases</url>
         </repository>
