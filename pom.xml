@@ -43,8 +43,5 @@
     </pluginManagement>
 
     </build>
-    <properties>
-        <project.scm.id>my-scm-server</project.scm.id>
-    </properties>
 
 </project>
