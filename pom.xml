@@ -10,7 +10,7 @@
 
     <groupId>org.wso2.deply.test</groupId>
     <artifactId>deploy-sample</artifactId>
-    <version>1.3.8</version>
+    <version>1.3.8-SNAPSHOT</version>
 
 
     <scm>
@@ -39,12 +39,17 @@
                     <releaseProfiles>wso2-release</releaseProfiles>
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>com.github.github</groupId>
+                <artifactId>github-maven-core</artifactId>
+                <version>0.12</version>
+            </plugin>
         </plugins>
     </pluginManagement>
 
     </build>
 
     <properties>
-        <project.scm.id>my-scm-server</project.scm.id>
+        <github.global.server>my-scm-server</github.global.server>
     </properties>
 </project>
