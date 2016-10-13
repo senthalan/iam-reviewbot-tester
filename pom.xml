@@ -39,21 +39,12 @@
                     <releaseProfiles>wso2-release</releaseProfiles>
                 </configuration>
             </plugin>
-            <plugin>
-                <groupId>com.github.github</groupId>
-                <artifactId>github-maven-core</artifactId>
-                <version>0.12</version>
-                <configuration>
-                    <userName>senthalan</userName>
-                    <password>senthu18</password>
-                </configuration>
-            </plugin>
         </plugins>
     </pluginManagement>
 
     </build>
 
-    <!--<properties>-->
-        <!--<github.global.oauth2Token>46fb626fba6ec1250e785703e8a786ea2ab1388e</github.global.oauth2Token>-->
-    <!--</properties>-->
+    <properties>
+        <project.scm.id>my-scm-server</project.scm.id>
+    </properties>
 </project>
