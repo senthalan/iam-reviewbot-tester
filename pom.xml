@@ -45,6 +45,6 @@
     </build>
 
     <properties>
-        <github.global.server>github</github.global.server>
+        <project.scm.id>my-scm-server</project.scm.id>
     </properties>
 </project>
