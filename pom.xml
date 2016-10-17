@@ -43,7 +43,4 @@
     </pluginManagement>
 
     </build>
-    <properties>
-        <project.scm.id>senthalan-github</project.scm.id>
-    </properties>
 </project>
