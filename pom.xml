@@ -24,7 +24,7 @@
         <repository>
             <id>wso2.test.release</id>
             <name>Nexus Staging Repo</name>
-            <url>https://mavenstg.wso2.org/nexus/content/repositories/releases</url>
+            <url>https://maven.wso2.org/nexus/content/repositories/release-test</url>
         </repository>
     </distributionManagement>
 
