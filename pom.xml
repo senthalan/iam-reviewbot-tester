@@ -8,7 +8,7 @@
         <version>5</version>
     </parent>
 
-    <groupId>org.wso2.deply.test</groupId>
+    <groupId>org.wso2.deply.test2</groupId>
     <artifactId>deploy-sample</artifactId>
     <version>1.4.23-SNAPSHOT</version>
 
