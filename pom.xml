@@ -17,7 +17,6 @@
         <developerConnection>scm:git:https://github.com/senthalan/deployment-sample.git</developerConnection>
         <connection>scm:git:https://github.com/senthalan/deployment-sample.git</connection>
         <url>https://github.com/senthalan/deployment-sample.git</url>
-    <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
