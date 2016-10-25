@@ -10,7 +10,7 @@
 
     <groupId>org.wso2.deply.test5</groupId>
     <artifactId>deploy-sample</artifactId>
-    <version>5.1.0-SNAPSHOT</version>
+    <version>5.1.1-SNAPSHOT</version>
 
 
     <scm>
