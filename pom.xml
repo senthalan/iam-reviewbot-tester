@@ -10,7 +10,7 @@
 
     <groupId>org.wso2.deply.test5</groupId>
     <artifactId>deploy-sample</artifactId>
-    <version>5.1.1-SNAPSHOT</version>
+    <version>5.1.10-SNAPSHOT</version>
 
 
     <scm>
@@ -22,8 +22,8 @@
 
     <distributionManagement>
         <repository>
-            <id>wso2.test.release</id>
-            <name>Nexus Staging Repo</name>
+            <id>nexus-releases</id>
+            <name>WSO2 Nexus Release Repository</name>
             <url>https://maven.wso2.org/nexus/content/repositories/release-test</url>
         </repository>
     </distributionManagement>
