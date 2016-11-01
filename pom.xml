@@ -19,7 +19,6 @@
     <tag>HEAD</tag>
   </scm>
 
-
     <distributionManagement>
         <repository>
             <id>nexus-releases</id>
