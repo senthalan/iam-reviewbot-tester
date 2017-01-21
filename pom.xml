@@ -10,13 +10,13 @@
 
     <groupId>org.wso2.deploy.test5</groupId>
     <artifactId>deploy-sample</artifactId>
-    <version>6.4.2-SNAPSHOT</version>
+    <version>6.4.2</version>
 
     <scm>
         <developerConnection>scm:git:https://github.com/senthalan/deployment-sample.git</developerConnection>
         <connection>scm:git:https://github.com/senthalan/deployment-sample.git</connection>
         <url>https://github.com/senthalan/deployment-sample.git</url>
-    <tag>HEAD</tag>
+    <tag>deploy-sample-6.4.2</tag>
   </scm>
 
     <distributionManagement>
