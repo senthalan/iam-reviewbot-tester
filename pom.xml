@@ -21,9 +21,9 @@
 
     <distributionManagement>
         <repository>
-            <id>nexus-releases</id>
+            <id>nexus-releases-test</id>
             <name>WSO2 Nexus Release Repository</name>
-            <url>https://maven.wso2.org/nexus/content/repositories/release-test</url>
+            <url>https://maven.wso2.org/nexus/content/repositories/release-test-one</url>
         </repository>
     </distributionManagement>
 </project>
